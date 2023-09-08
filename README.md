@@ -21,5 +21,4 @@ Currently, two official plugins are available:
 
 ## Screenshot
 
-
 <img src="Video_1694198366.gif">
