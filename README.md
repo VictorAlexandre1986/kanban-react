@@ -18,3 +18,8 @@ Currently, two official plugins are available:
   <li>LocalStorage</li>
   <li>React DnD</li>
 </ul>
+
+## Screenshot
+
+
+<img src="">
